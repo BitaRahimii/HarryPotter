@@ -1,0 +1,233 @@
+<!doctype html>
+<html>
+<head>
+   <meta charset="utf-8">
+   <title>my web</title>
+	<link href="style.css" type="text/css" rel="stylesheet">									  
+</head>
+
+<body> 
+  <nav id="menu" name="home">
+         <div class="amenu">
+		   <i>
+		   <a href="file:///C:/Users/Bita/Desktop/web/sec2/index2.html" target="_blank">
+		       section
+		   </a>
+		   </i>
+		 </div> 
+		 <div class="amenu">
+		   <i>
+		    <a href="#about" target="_blank">
+		       about
+		    </a>
+		   </i>
+		 </div> 
+		 <div class="amenu">
+		   <i>
+		    <a href="#summary" target="_blank">
+		     summary
+		    </a>
+		   </i>
+		 </div> 
+		<div class="amenu">
+		  <i>
+		   <a href="#three main actor" target="_blank">
+		    three main actor
+		  </a>
+		  </i>
+		</div> 
+		<div class="amenu">
+		  <i>
+		    <a href="#anniversary" target="_blank">
+		     anniversary 
+		    </a>
+		  </i>
+		</div> 
+	</nav>
+	 	<div id="sec6">
+	  <div id="sec9">
+	    <a href="https://www.dementor.ir/posts/6024/">
+	     <img src="pic/k71.png" alt="flag iran" title="flag iran" width="74px">
+	   </a>
+	  </div>
+	   <a href="https://www.wizardingworld.com/">
+	      <img src="pic/k70.png" alt="flag us" title="flag us" width="74px" >
+	   </a>
+	  <div class="sec7">
+	   <a href="https://www.instagram.com/?hl=en">
+	    <img src="pic/k77.png" alt="instagram" title="instagram" width="55px" >
+	  </a>
+	  </div>
+	  <div id="sec8">
+	    <a href="https://www.wizardingworld.com/">
+		  <img src="pic/k78.png" alt="filimo" title="filimo" width="60px" >
+	    </a>
+	  </div>
+	    <div class="sec7">
+		  <a href="#home" target="-blank">
+		   <img src="pic/k79.png" alt="home" title="home" width="60px" >
+		  </a>
+		</div>
+	</div>
+    <div id="sec1">
+	  <section id="main">
+	    <h1 id="h1sec1">
+		  harry potter
+		</h1>
+		<p id="pmain">
+		 Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends Hermione Granger and Ron Weasley, all of whom are students at Hogwarts School of Witchcraft and Wizardry. The main story arc concerns Harry's struggle against Lord Voldemort, a dark wizard who intends to become immortal, overthrow the wizard governing body known as the Ministry of Magic and subjugate all wizards and Muggles (non-magical people).
+
+         Since the release of the first novel, Harry Potter and the Philosopher's Stone, on 26 June 1997, the books have found immense popularity, positive reviews, and commercial success worldwide. They have attracted a wide adult audience as well as younger readers and are often considered cornerstones of modern young adult literature.[2] As of February 2018, the books have sold more than 500 million copies worldwide, making them the best-selling book series in history, and have been translated into eighty languages.[3] The last four books consecutively set records as the fastest-selling books in history, with the final instalment selling roughly 2.7 million copies in the United Kingdom and 8.3 million copies in the United States within twenty-four hours of its release.
+
+          The series was originally published in English by Bloomsbury in the United Kingdom and Scholastic Press in the United States. All versions around the world are printed by Grafica Veneta in Italy.[4]
+
+          A play, Harry Potter and the Cursed Child, based on a story co-written by Rowling, premiered in London on 30 July 2016 at the Palace Theatre, and its script was published by Little, Brown. The original seven books were adapted into an eight-part namesake film series by Warner Bros. Pictures, which is the third-highest-grossing film series of all time as of February 2020. In 2016, the total value of the Harry Potter franchise was estimated at $25 billion, making Harry Potter one of the highest-grossing media franchises of all time.
+
+		</p>
+	  </section>
+	</div>
+<div id="h1"><i><h1>summary</h1></i></div>
+	<a name="summary"></a>
+	 <div class="pic3">
+	     <a href="file:///C:/Users/Bita/Desktop/web/sec3/index3.html" class="img1">
+	       <img src="pic/k57.png" alt="part 1" title="harry potter and the philosopher s stone" width="250px">
+	   </a>
+     <a href="file:///C:/Users/Bita/Desktop/web/sec4/index.html"  class="img1"> 
+	     <img src="pic/k58.png" alt="part 2" title="harry potter and the chamber of secrect" width="250px">
+	 </a>
+	 <a href="file:///C:/Users/Bita/Desktop/web/sec5/index.html"   class="img1"> 
+	    <img src="pic/k61.png" alt="part 3" title="harry potter and the prisoner of azkaban" width="250px" height="365px">
+	 </a>
+	 <a href="file:///C:/Users/Bita/Desktop/web/sec6/index.html" class="img1">
+	     <img src="pic/k63.png" alt="part 4" title="harry potter and the oder of the phoenix" width="250px" height="365px">
+	 </a>
+	 </div>
+	 <div class="pic3">
+	   <a href="file:///C:/Users/Bita/Desktop/web/sec7/index.html" class="img1">
+	    <img src="pic/k62.png" alt="part 5" title="harry potter and the goblet of fire" width="250px" height="365px">
+	 </a>
+	  <a href="file:///C:/Users/Bita/Desktop/web/sec8/index.html" class="img1">
+	    <img src="pic/k64.png" alt="part 6" title="harry potter and the half-bold prince" width="230px" height="365px">
+	 </a>
+	 <a href="file:///C:/Users/Bita/Desktop/web/sec9/index.html" class="img1" >
+	     <img src="pic/k65.png" alt="part 7" title="deathly hallows psrt 1" width="260px" height="365px">
+	 </a>
+	 <a href="file:///C:/Users/Bita/Desktop/web/sec10/index.html" class="img1" >
+	    <img src="pic/k74.png" alt="part 8" title="deathly hallows psrt 2" width="260px" height="365px">
+	 </a>
+	 </div>
+	 <a  name="three main actor">
+	 </a>
+	 <div id="h13">
+	   <h1 >
+	    three main actor
+	   </h1>
+	 </div>
+    <section id="part1">
+	 <section id="h1harry">
+	      <h1>
+	      who is harry potter?
+	    </h1>
+	 </section>
+	 <section id="h3harry">
+	     <h3>
+	      Harry Potter is a series of seven fantasy<br> novels written by British author J. K.<br> Rowling. The novels chronicle the lives of<br> a young wizard, .....
+	    </h3>
+	  </section>
+	  <section id="h3h">
+	    <a class="about" href="file:///C:/Users/Bita/Desktop/web/sec11/index.html" target="-blank">
+	       <h3 style="text-align:center">
+	        about
+	      </h3>
+	   </a>
+	  </section>
+	</section>
+		 </div>
+    <section id="part2">
+	 <section id="h1hermion">
+	    <h1>
+	      who is   Hermione Jean Granger ?
+	    </h1>
+	 </section>
+	 <section id="h4hermion">
+	     <h3>
+        Hermione Jean Granger  is<br> a fictional character in J. K.<br> Rowling's Harry Potter series. She<br> first appears in the novel<br> Harry Potter and the<br> Philosopher's Stone (1997), as a new<br> student on her way to Hogwarts.  .....
+	    </h3>
+	  </section>
+	     <section id="h3hg">
+	        <a class="about" href="file:///C:/Users/Bita/Desktop/web/sec12/index.html" target="-blank">
+	           <h3 style="text-align:center">
+	             about
+	           </h3>
+	        </a> 
+	     </section>
+	  </section>
+	 <section id="part3">
+	 	 <section id="h1ronald">
+	    <h1>
+	      who is ronald weasley?
+	    </h1>
+	 </section>
+	 <section id="h4ronald">
+	     <h3>
+           Ronald Bilius Weasley is a fictional character<br> in J. K. Rowling's Harry Potter fantasy novel<br> series. His first appearance<br> was in the first book of the series,<br>  .....
+	    </h3>
+	  </section>
+	     <section id="h3rw">
+	        <a class="about" href="file:///C:/Users/Bita/Desktop/web/sec13/index.html" target="-blank">
+	           <h3 style="text-align:center">
+	             about
+	           </h3>
+	        </a> 
+	     </section>
+	 </section>
+	</section>
+	<hr>
+	<section>
+	   <section>
+        <section width="50%">
+		    <img  id="book" src="pic/k91.png" alt="BOOKS HARRY POTTER" title="BOOKS HARRY POTTER" width="500px">     
+		</section>
+		<section width="50%">
+		    <p id="pbook">
+			Now for the first time ever, J.K. Rowling’s seven bestselling Harry Potter books are available in a stunning paperback boxed set! The Harry Potter series has been hailed as “one for the ages” by Stephen King and “a spellbinding saga’ by USA Today. And most recently, The New York Times called Harry Potter and the Deathly Hallows the “fastest selling book in history.” This is the ultimate Harry Potter collection for Harry Potter fans of all ages!
+
+			</p>
+		</section>
+        <a id="abook">
+		  by the book
+		</a>
+	</section>
+ <a name="anniversary"></a>
+<section>
+   <h1 id="h1v">harry potter 20th anniversary return to hogwarts</h1>
+  <section id="sec11">
+    <video id="video1" autoplay controls  poster="pic/k89.png" >
+      <source src="harry potter.mp4">
+    </video>
+    </section>
+	<section id="sec12">
+  <p id="pvideo">
+     Harry Potter: 20th Anniversary, Back to Hogwarts...
+
+I was such kind of a person who just watched only 1st two parts and skipped the rest, but thanks to covid for giving me the chance to watch the rest series which added love to this film forever...
+
+Harry Potter, Ron Weasely, Hermione, Dumbledore, Profesor Snake, Lord Voldemort, these names were so popular that time and it got registered to our brains....
+
+JK Rowling, the creator behind the Wizard Magical Fictional Movie not only encouraged to read books but also gave a limelight to the artists worked in this series which made them forever memorable in the heart of their fans... 
+
+Amazon Prime, premiered 20th Anniversary of Harry Potter and now its streaming from 1st January 22... 
+
+It had shown the journey of Daniel Radcliffe, Emma Watson & Rupert Grint from nowhere to the well known stars...  ❤️
+
+ </p>
+  <a href="https://www.filimo.com/m/3d1el">
+    <img src="pic/logo.png" alt="logo" width="100px" style="margin-left:150px">
+  </a>
+  </section>
+</section>
+
+</body>
+
+
+</html>

@@ -1,0 +1,376 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+    background-color:#515A5A;
+	
+
+ 
+}
+nav#menu
+{
+	width:90%;
+	height:60px;
+	position:fixed;
+	background-color:white;
+	top:0px;
+	left:55px;
+
+	
+}
+div.amenu
+{
+	float: left;	
+    color:black;
+    font-size:30px;
+	width:20%;
+	text-align: center;
+	padding-top:15px;
+	padding-bottom:60px;
+
+}
+a:link
+{
+  text-decoration: none!important;
+}
+
+a
+{
+   color:black;	
+	
+}
+a:hover
+{
+	color:#2E4053  ;
+	font-size:29px;
+	
+}
+a:active
+{
+  color:#5F6A6A ;
+  font-size:23px;	
+}
+section#main
+{
+	
+  background-color:white;
+  width:70%;
+  height:550px;
+  margin-left:180px;  
+  padding-left:35px;
+  border:#839192  3px solid;
+  border-radius:18px;
+  color:black;
+  font-size:20px  
+
+}
+div#sec1
+{
+   background-image:url('pic/k72.png');
+   background-size:cover;
+   width:85%;
+   height:600px;
+   margin-left:7%;
+   padding-top:400px;
+   box-sizing:border-box;
+}
+h1#h1sec1
+{
+	color:#4B4D50;
+    margin-left:350px
+
+}
+p#pmain
+{
+ color:black;
+  
+	
+}
+
+div#sec3
+{
+   margin-left:8px;	
+   color:#B34B00;
+
+}
+div#pic1
+{   
+	height:65%;
+	width:330px;
+	float :right;
+	margin-top:2%;
+	border:solid white 3px;
+	margin-right:5%;
+}
+div#sec5
+{
+ color: #FFFFFF;	
+ margin-top:20px;	
+}
+div#pic2
+{
+  width:100%;
+  height:400px; 
+  padding-left:150px;  
+  margin-bottom:50px;
+  margin-top:50px;
+}
+a.img1:hover
+{
+	opacity:0.8;
+	
+}
+div#h1
+{
+   color:white;	
+    margin-top:350px;	
+} 
+
+div.pic3
+{
+  width:100%;
+  height:400px; 
+  padding-left:150px;  
+  margin-bottom:50px;
+  margin-top:10px;
+
+}
+div#pic4
+{
+  margin-left:20%;
+  margin-top:5%;
+
+	
+}
+div#sec6
+{
+  width:5%;
+  height:500px;
+  background-color:white;
+  float:right; 
+  margin-top:62px;
+  position:fixed;
+   margin-left:94%; 
+   border-radius: 10px 10px 10px 10px;
+   border:5px #34495E solid;    
+	
+}
+div.sec7
+{
+	margin-left:10px;
+	margin-top:15px;
+	
+}
+div#h12
+{
+  color:#707B7C ;	
+  text-align:center;
+}
+div#sec8
+{
+	margin-top:20px;
+	margin-left:9px;
+	
+}
+div#sec9
+{
+   margin-top:30px;	
+	
+}
+div#h13
+{
+  color:white ;	
+  text-align:center;
+}
+ div#pic4
+ {
+	width:350px;
+	height:350px;
+    float:left;
+ }
+  div#sec10
+  {
+	width:100%;
+    background-color:blue;	
+	  
+  }
+  section#h1harry
+  {
+	color:white;
+    margin-left:350px;
+	font-size:25px;
+	padding-top:20px
+  }
+ section#h3h
+  {
+	background-color:#2980B9;
+    color:white;
+    width:20%;
+    height:50px;
+    border-radius: 40px 40px 40px 40px;
+    border:#2980B9 3px solid; 
+	margin-left:450px
+	
+	}
+   section#h3harry
+   {
+	color:white;   
+	margin-left:350px;   
+   }
+
+  section#h1hermion
+   {
+	color:white;
+    margin-top:110px;	
+	margin-left:20px ;
+	font-size:25px;
+   }
+    #h4hermion
+   {
+	color:white;
+    margin-top:15px;	
+	margin-left:20px ;
+	font-size:18px;
+   }
+    #h3hermion
+   {
+  	background-color:#2980B9;
+    color:white;
+    width:10%;
+    height:50px;
+    border-radius: 40px 40px 40px 40px;
+    border:#2980B9 3px solid;
+	position: absolute; 
+    margin-top:360px;
+    margin-left:780px;	
+
+   }
+
+   section#part1
+   {
+	background-image:url('pic/k85.png');
+	width:702px;
+    height:396px;
+    margin-left:50px;
+	margin-top:100px;
+   }
+   a:hover.about
+   {
+	color:white; 
+	font-size:15px;   
+   }
+   section#part2
+   {
+	background-image:url('pic/k83.png');
+	width:600px;
+    height:450px;
+    margin-left:680px;
+
+   }
+   section#h3hg
+   {
+	background-color:#2980B9;
+    color:white;
+    width:20%;
+    height:50px;
+    border-radius: 40px 40px 40px 40px;
+    border:#2980B9 3px solid; 
+    margin-left:150px;
+	margin-top:60px
+	   
+   }
+   section#part3
+   {
+    background-image:url('pic/k86.png');
+	width:700px;
+    height:393px;
+    margin-left:60px; 
+	background-repeat:no-repeat;
+	margin-top:80px;
+	   
+   }
+   section#h1ronald
+   {
+	color:white;   
+	font-size:25px; 
+    margin-left:390px	
+   }
+   section#h4ronald
+   {
+	margin-left:390px;
+    color:white;	
+	font-size:18px   
+   }
+   section#h3rw
+   {
+	background-color:#2980B9;
+    color:white;
+    width:20%;
+    height:50px;
+    border-radius: 40px 40px 40px 40px;
+    border:#2980B9 3px solid; 
+    margin-left:430px;
+	margin-top:60p   
+	   
+   }
+   video#video1
+   {
+	width:700px;
+	margin-left:60px;  
+    margin-top:50px;	
+   }
+   section#sec11
+  {
+	width:50%;	
+	float:left;  
+  }
+   section#sec12
+  {
+	width:30%;
+	float:right;
+    margin-right:230px;
+    margin-top:35px;
+    height:600px;	
+  }
+  p#pvideo
+  {
+	color:white;  
+    text-align:justify;
+    font-size:18px	
+  }
+  h1#h1v
+  {
+	color:white;  
+	margin-left:29%;
+	margin-top:156px;
+	font-size:30px;
+  }
+  img#book
+  {
+	margin-left:250px;  
+	margin-top:40px;
+    float:left;	
+  }
+   p#pbook
+   {
+	color:white;   
+	font-size:20px;
+    float:right;
+    width:30%;
+    margin-top:100px;
+	margin-right:150px
+   }
+   a#abook
+   {
+    color:#142A53  ;
+	margin-left:150px;
+	font-size:35px
+  
+   
+   
+   
+   
+   
+   
+   
+ 
